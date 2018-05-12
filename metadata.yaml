@@ -1,0 +1,40 @@
+_repo: The-Prussian-Terror_36016
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, R. S. (Robert Singleton)
+    alias: Garnett, Robert Singleton
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '38030'
+    url: http://www.gutenberg.org/2009/agents/38030
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36016'
+  lccn: '17013723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Austro-Prussian War, 1866 -- Fiction'
+title: The Prussian Terror
+url: http://www.gutenberg.org/ebooks/36016
